@@ -11,7 +11,7 @@ images: []
 
 # Akash Network Token (AKT)
 
-Akash Network Token (AKT) is the native utility token of the Akash Network, used as the primary means to govern, secure the blockchain, incentivize participants, and provide a default mechanism to store and exchange value.
+Akash Network Token (AKT) is the native utility token of the Akash Network. AKT is used as the primary means of governance, along with securing the blockchain, incentivizing participants, and providing a default mechanism to store and exchange value.
 
 ##### Security
 
@@ -32,7 +32,7 @@ AKT is used to incentivize providers to offer lower prices, and incentivizes sta
 
 ## Ecosystem Tools
 
-The following tools are available to explore the Akash Network blockchain, stake AKT, and participate in governance:
+The following tools are available for exploring the Akash Network blockchain, staking AKT, and participating in governance:
 
 | Explorers | Wallets | Staking
 | :--- | :--- | :--- |
@@ -44,7 +44,7 @@ The following tools are available to explore the Akash Network blockchain, stake
 
 ## Token Metrics
 
-As of {{< cglastupdated >}}, the following are the AKT metrics, as reported by [Coingecko](https://www.coingecko.com/en/coins/akash-network).
+As of {{< cglastupdated >}}, these are the current AKT metrics, as reported by [Coingecko](https://www.coingecko.com/en/coins/akash-network).
 
 | |
 | :--- | :--- |
